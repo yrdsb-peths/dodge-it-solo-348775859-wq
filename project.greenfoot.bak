@@ -6,8 +6,5 @@ public class MyWorld extends World
 	{
 		// Create a new world
 		super(600,400,1);
-		
-		Hero hero = new Hero();
-		addObject(hero, 100, 100);
 	}
 }
