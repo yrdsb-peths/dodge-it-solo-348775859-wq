@@ -1,0 +1,10 @@
+import greenfoot.*;
+
+public class MyWorld extends World
+{
+	public MyWorld()
+	{
+		// Create a new world
+		super(600,400,1);
+	}
+}
